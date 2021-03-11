@@ -1,0 +1,30 @@
+.registerAlert{
+	width: 65%;
+	height: 6vh;
+}
+
+.loginAlert{
+	width: 65%;
+	height: 6vh;
+}
+
+.profile{
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background-color: black;
+}
+
+.appbar{
+	width: 100%;
+	height: 6vh;
+	background-color: red;
+}
+
+.appbar h2{
+	color: white;
+	float: right;
+	position: absolute;
+	bottom: 92.7%;
+	font-size: 3vh;
+}
